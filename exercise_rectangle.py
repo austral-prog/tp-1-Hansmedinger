@@ -8,3 +8,10 @@ def rectangle():
     """
     base = 10
     altura = 5
+
+altura = 5
+base = 10
+print (altura * base)
+print (2*altura + 2*base)
+
+rectangle()

@@ -1,3 +1,6 @@
+import temp
+
+
 def temperature():
     """
     Ejercicio 3 - Conversión de Temperatura
@@ -7,3 +10,8 @@ def temperature():
     2. La temperatura original en Celsius
     """
     celsius = 25
+    fahrenheit = 9 / 5 * celsius + 32
+    print(fahrenheit)
+    print(celsius)
+
+temperature()

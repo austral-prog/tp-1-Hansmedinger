@@ -9,3 +9,14 @@ def length():
     4. Pulgadas (1 pulgada ≈ 0.0254 m)
     """
     metros = 1000
+
+    Kilometros = metros/1000
+    Millas = metros/1609.34
+    Pies = metros/0.3048
+    Pulgadas = metros/0.0254
+
+    print(Kilometros)
+    print(Millas)
+    print(Pies)
+    print(Pulgadas)
+length()
