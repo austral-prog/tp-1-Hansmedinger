@@ -21,4 +21,4 @@ def grades():
     print("La nota maxima es", nota_maxima)
     print("La nota minima es", nota_minima)
     print("Al promedio le faltan",puntos_faltantes, "puntos para llegar a 10")
-grades()
+

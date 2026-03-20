@@ -16,4 +16,3 @@ def circle():
 
     print("Area:",area)
     print("Circunferencia:", circunferencia)
-circle()

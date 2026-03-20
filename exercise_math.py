@@ -22,6 +22,6 @@ def math():
     print (a % b)
     print (a/b)
 
-math()
+
 
 

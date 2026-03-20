@@ -22,4 +22,4 @@ def statistics():
     print("El maximo es: ", maximo)
     print("El minimo es: ", minimo)
     print("El rango es: ", rango)
-statistics()
+

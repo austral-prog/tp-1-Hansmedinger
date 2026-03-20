@@ -10,4 +10,4 @@ def triangle():
 
     area = (base * altura) / 2
     print("El area es", area)
-triangle()
+

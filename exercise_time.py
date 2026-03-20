@@ -17,4 +17,4 @@ def time():
     print("Horas completas: ", Horas)
     print("Minutos restantes: ", Minutos)
     print("Segundos restantes: ", Segundos)
-time()
+

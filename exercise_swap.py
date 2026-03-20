@@ -20,4 +20,3 @@ def swap():
     print("El valor original de Y es: ", valor_originalY)
     print("El valor intercambio de X es: ", valor_intercambioX)
     print("El valor intercambio de Y es: ", valor_intercambioY)
-swap()

@@ -14,4 +14,3 @@ def temperature():
     print(fahrenheit)
     print(celsius)
 
-temperature()

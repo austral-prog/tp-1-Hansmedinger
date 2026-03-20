@@ -18,4 +18,3 @@ def age():
     print("La edad en dias es: ", edad_dias)
     print("La edad en horas es: ", edad_horas)
     print("La edad en minutos es: ", edad_minutos)
-age()

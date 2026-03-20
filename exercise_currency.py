@@ -19,4 +19,3 @@ def currency():
     print(dolares)
     print(euros)
     print(reales)
-currency()
